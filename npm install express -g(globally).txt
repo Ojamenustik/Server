@@ -1,3 +1,0 @@
-npm install express -g(globally)
-
-var express = require("express");
